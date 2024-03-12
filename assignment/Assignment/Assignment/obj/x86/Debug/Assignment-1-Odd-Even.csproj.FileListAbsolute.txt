@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb

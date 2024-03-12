@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\bin\Debug\net6.0\NearlyLucky.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\bin\Debug\net6.0\NearlyLucky.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\bin\Debug\net6.0\NearlyLucky.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\bin\Debug\net6.0\NearlyLucky.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\bin\Debug\net6.0\NearlyLucky.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\refint\NearlyLucky.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\NearlyLucky.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\NearlyLucky\obj\Debug\net6.0\ref\NearlyLucky.dll

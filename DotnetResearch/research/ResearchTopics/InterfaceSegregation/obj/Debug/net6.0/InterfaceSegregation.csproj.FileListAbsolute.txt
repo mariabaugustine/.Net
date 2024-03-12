@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\refint\InterfaceSegregation.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\InterfaceSegregation\obj\Debug\net6.0\ref\InterfaceSegregation.dll

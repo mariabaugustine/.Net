@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\bin\Debug\net6.0\OutExample.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\bin\Debug\net6.0\OutExample.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\bin\Debug\net6.0\OutExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\bin\Debug\net6.0\OutExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\bin\Debug\net6.0\OutExample.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\refint\OutExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\OutExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\OutExample\obj\Debug\net6.0\ref\OutExample.dll

@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\static\bin\Debug\net6.0\staticexample.exe
+C:\Users\249211\Desktop\dotnet\practice\static\bin\Debug\net6.0\staticexample.deps.json
+C:\Users\249211\Desktop\dotnet\practice\static\bin\Debug\net6.0\staticexample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\static\bin\Debug\net6.0\staticexample.dll
+C:\Users\249211\Desktop\dotnet\practice\static\bin\Debug\net6.0\staticexample.pdb
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.dll
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\refint\staticexample.dll
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.pdb
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\staticexample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\static\obj\Debug\net6.0\ref\staticexample.dll

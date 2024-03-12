@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\bin\Debug\net6.0\PalindromeExample.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\bin\Debug\net6.0\PalindromeExample.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\bin\Debug\net6.0\PalindromeExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\bin\Debug\net6.0\PalindromeExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\bin\Debug\net6.0\PalindromeExample.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\refint\PalindromeExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\PalindromeExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PalindromeExample\obj\Debug\net6.0\ref\PalindromeExample.dll

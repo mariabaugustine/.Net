@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\bin\Debug\net6.0\AbstrctClass.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\bin\Debug\net6.0\AbstrctClass.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\bin\Debug\net6.0\AbstrctClass.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\bin\Debug\net6.0\AbstrctClass.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\bin\Debug\net6.0\AbstrctClass.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\refint\AbstrctClass.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\AbstrctClass.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AbstrctClass\obj\Debug\net6.0\ref\AbstrctClass.dll

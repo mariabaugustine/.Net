@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\bin\Debug\net6.0\TestExamplee.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\bin\Debug\net6.0\TestExamplee.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\bin\Debug\net6.0\TestExamplee.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\bin\Debug\net6.0\TestExamplee.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\bin\Debug\net6.0\TestExamplee.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\refint\TestExamplee.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\TestExamplee.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\TestExamplee\obj\Debug\net6.0\ref\TestExamplee.dll

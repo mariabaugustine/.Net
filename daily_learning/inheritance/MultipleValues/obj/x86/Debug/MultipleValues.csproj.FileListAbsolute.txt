@@ -1,0 +1,6 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\bin\Debug\MultipleValues.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\bin\Debug\MultipleValues.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\obj\x86\Debug\MultipleValues.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\obj\x86\Debug\MultipleValues.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\obj\x86\Debug\MultipleValues.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\MultipleValues\obj\x86\Debug\MultipleValues.csproj.CoreCompileInputs.cache

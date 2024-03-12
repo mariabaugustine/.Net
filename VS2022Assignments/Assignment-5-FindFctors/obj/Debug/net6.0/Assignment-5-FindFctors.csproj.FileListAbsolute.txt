@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\bin\Debug\net6.0\Assignment-5-FindFctors.exe
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\bin\Debug\net6.0\Assignment-5-FindFctors.deps.json
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\bin\Debug\net6.0\Assignment-5-FindFctors.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\bin\Debug\net6.0\Assignment-5-FindFctors.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\bin\Debug\net6.0\Assignment-5-FindFctors.pdb
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\refint\Assignment-5-FindFctors.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.pdb
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\Assignment-5-FindFctors.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5-FindFctors\obj\Debug\net6.0\ref\Assignment-5-FindFctors.dll

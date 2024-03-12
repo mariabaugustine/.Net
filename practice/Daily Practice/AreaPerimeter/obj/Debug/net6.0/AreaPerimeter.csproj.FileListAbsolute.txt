@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\bin\Debug\net6.0\AreaPerimeter.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\bin\Debug\net6.0\AreaPerimeter.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\bin\Debug\net6.0\AreaPerimeter.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\bin\Debug\net6.0\AreaPerimeter.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\bin\Debug\net6.0\AreaPerimeter.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\refint\AreaPerimeter.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\AreaPerimeter.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\AreaPerimeter\obj\Debug\net6.0\ref\AreaPerimeter.dll

@@ -1,0 +1,5 @@
+Mobile_id:1
+Name:samsung
+Description:qwer
+Manufacturer:samsung
+Price:123

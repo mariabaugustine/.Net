@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\bin\Debug\net6.0\Top_level_statement.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\bin\Debug\net6.0\Top_level_statement.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\bin\Debug\net6.0\Top_level_statement.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\bin\Debug\net6.0\Top_level_statement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\bin\Debug\net6.0\Top_level_statement.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\refint\Top_level_statement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\Top_level_statement.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Top_level_statement\obj\Debug\net6.0\ref\Top_level_statement.dll

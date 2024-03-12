@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\bin\Debug\net6.0\ProductMnagement.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\bin\Debug\net6.0\ProductMnagement.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\bin\Debug\net6.0\ProductMnagement.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\bin\Debug\net6.0\ProductMnagement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\bin\Debug\net6.0\ProductMnagement.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\refint\ProductMnagement.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ProductMnagement.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\ProductMnagement\obj\Debug\net6.0\ref\ProductMnagement.dll

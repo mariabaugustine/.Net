@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\bin\Debug\net6.0\ReadOnlyProperty.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\bin\Debug\net6.0\ReadOnlyProperty.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\bin\Debug\net6.0\ReadOnlyProperty.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\bin\Debug\net6.0\ReadOnlyProperty.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\bin\Debug\net6.0\ReadOnlyProperty.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\refint\ReadOnlyProperty.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ReadOnlyProperty.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ReadOnlyProperty\obj\Debug\net6.0\ref\ReadOnlyProperty.dll

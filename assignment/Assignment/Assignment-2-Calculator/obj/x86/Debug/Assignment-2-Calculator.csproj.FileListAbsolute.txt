@@ -1,0 +1,6 @@
+C:\Users\249211\Documents\Visual Studio 2010\Projects\Assignment\Assignment-2-Calculator\bin\Debug\Assignment-2-Calculator.exe
+C:\Users\249211\Documents\Visual Studio 2010\Projects\Assignment\Assignment-2-Calculator\bin\Debug\Assignment-2-Calculator.pdb
+C:\Users\249211\Documents\Visual Studio 2010\Projects\Assignment\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.exe
+C:\Users\249211\Documents\Visual Studio 2010\Projects\Assignment\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.pdb

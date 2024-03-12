@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\bin\Debug\net6.0\VarExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\bin\Debug\net6.0\VarExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\bin\Debug\net6.0\VarExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\bin\Debug\net6.0\VarExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\bin\Debug\net6.0\VarExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\refint\VarExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\VarExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\VarExample\obj\Debug\net6.0\ref\VarExample.dll

@@ -1,0 +1,6 @@
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\bin\Debug\Assignment-3-SumOfDigits.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\bin\Debug\Assignment-3-SumOfDigits.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\obj\x86\Debug\Assignment-3-SumOfDigits.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\obj\x86\Debug\Assignment-3-SumOfDigits.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\obj\x86\Debug\Assignment-3-SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-SumOfDigits\obj\x86\Debug\Assignment-3-SumOfDigits.csproj.CoreCompileInputs.cache

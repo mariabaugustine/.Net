@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-1-OddEven\bin\Debug\Assignment-1-OddEven.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-1-OddEven\bin\Debug\Assignment-1-OddEven.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-1-OddEven\obj\x86\Debug\Assignment-1-OddEven.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-1-OddEven\obj\x86\Debug\Assignment-1-OddEven.pdb

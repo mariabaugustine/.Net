@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\bin\Debug\net6.0\OpenClosedExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\refint\OpenClosedExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\OpenClosedExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\OpenClosedExample\obj\Debug\net6.0\ref\OpenClosedExample.dll

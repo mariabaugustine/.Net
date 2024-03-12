@@ -1,0 +1,6 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\obj\x86\Debug\inheritance.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\obj\x86\Debug\inheritance.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\obj\x86\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\inheritance\obj\x86\Debug\inheritance.csproj.CoreCompileInputs.cache

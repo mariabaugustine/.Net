@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\bin\Debug\net6.0\FirstSql.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\bin\Debug\net6.0\FirstSql.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\bin\Debug\net6.0\FirstSql.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\bin\Debug\net6.0\FirstSql.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\bin\Debug\net6.0\FirstSql.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\refint\FirstSql.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\FirstSql.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\SQLDemo\FirstSql\obj\Debug\net6.0\ref\FirstSql.dll

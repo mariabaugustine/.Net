@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-2-Calculator\bin\Debug\Assignment-2-Calculator.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-2-Calculator\bin\Debug\Assignment-2-Calculator.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Assignment-1-OddEven\Assignment-2-Calculator\obj\x86\Debug\Assignment-2-Calculator.pdb

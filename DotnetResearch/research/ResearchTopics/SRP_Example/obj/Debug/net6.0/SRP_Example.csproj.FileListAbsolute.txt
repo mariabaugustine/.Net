@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\bin\Debug\net6.0\SRP_Example.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\bin\Debug\net6.0\SRP_Example.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\bin\Debug\net6.0\SRP_Example.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\bin\Debug\net6.0\SRP_Example.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\bin\Debug\net6.0\SRP_Example.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\refint\SRP_Example.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\SRP_Example.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\SRP_Example\obj\Debug\net6.0\ref\SRP_Example.dll

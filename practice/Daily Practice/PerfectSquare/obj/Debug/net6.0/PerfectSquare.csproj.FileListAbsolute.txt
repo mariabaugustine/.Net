@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\bin\Debug\net6.0\PerfectSquare.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\bin\Debug\net6.0\PerfectSquare.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\bin\Debug\net6.0\PerfectSquare.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\bin\Debug\net6.0\PerfectSquare.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\bin\Debug\net6.0\PerfectSquare.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\refint\PerfectSquare.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\PerfectSquare.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\PerfectSquare\obj\Debug\net6.0\ref\PerfectSquare.dll

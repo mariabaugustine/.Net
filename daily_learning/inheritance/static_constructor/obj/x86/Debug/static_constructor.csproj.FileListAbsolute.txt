@@ -1,0 +1,6 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\bin\Debug\static_constructor.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\bin\Debug\static_constructor.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\obj\x86\Debug\static_constructor.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\obj\x86\Debug\static_constructor.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\obj\x86\Debug\static_constructor.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\static_constructor\obj\x86\Debug\static_constructor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\bin\Debug\net6.0\MethodSyntaxExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\bin\Debug\net6.0\MethodSyntaxExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\bin\Debug\net6.0\MethodSyntaxExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\bin\Debug\net6.0\MethodSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\bin\Debug\net6.0\MethodSyntaxExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\refint\MethodSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\MethodSyntaxExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MethodSyntaxExample\obj\Debug\net6.0\ref\MethodSyntaxExample.dll

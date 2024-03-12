@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\bin\Debug\net6.0\MixedSyntaxExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\bin\Debug\net6.0\MixedSyntaxExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\bin\Debug\net6.0\MixedSyntaxExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\bin\Debug\net6.0\MixedSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\bin\Debug\net6.0\MixedSyntaxExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\refint\MixedSyntaxExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\MixedSyntaxExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\MixedSyntaxExample\obj\Debug\net6.0\ref\MixedSyntaxExample.dll

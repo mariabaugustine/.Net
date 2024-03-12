@@ -1,0 +1,16 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\ExceptionExample.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\ExceptionExample.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\ExceptionExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\ExceptionExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\ExceptionExample.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\refint\ExceptionExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ExceptionExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\obj\Debug\net6.0\ref\ExceptionExample.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\ToString\Exception\bin\Debug\net6.0\SampleExample.txt

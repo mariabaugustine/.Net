@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\bin\Debug\net6.0\LuckyNumber.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\bin\Debug\net6.0\LuckyNumber.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\bin\Debug\net6.0\LuckyNumber.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\bin\Debug\net6.0\LuckyNumber.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\bin\Debug\net6.0\LuckyNumber.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\refint\LuckyNumber.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\LuckyNumber.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\LuckyNumber\obj\Debug\net6.0\ref\LuckyNumber.dll

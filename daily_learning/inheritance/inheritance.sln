@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "inheritance\inheritance.csproj", "{DD3FD0C7-06BE-4239-B6B0-F2122675EA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance1", "Inheritance1\Inheritance1.csproj", "{CCE4A0D3-986D-4907-9797-792A683F4284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{04E4508E-A401-4600-A1B1-7BB9B9D66EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism1", "Polymorphism1\Polymorphism1.csproj", "{DE46F8BD-98F3-45E4-A5D9-514D5212132D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static_constructor", "static_constructor\static_constructor.csproj", "{36FF480A-543E-416A-B4E0-06F9B82F4B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basee", "Basee\Basee.csproj", "{B5CD26BC-4F38-4E39-B1CD-F3CBAB1D8B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3FD0C7-06BE-4239-B6B0-F2122675EA64}.Debug|x86.ActiveCfg = Debug|x86
+		{DD3FD0C7-06BE-4239-B6B0-F2122675EA64}.Debug|x86.Build.0 = Debug|x86
+		{DD3FD0C7-06BE-4239-B6B0-F2122675EA64}.Release|x86.ActiveCfg = Release|x86
+		{DD3FD0C7-06BE-4239-B6B0-F2122675EA64}.Release|x86.Build.0 = Release|x86
+		{CCE4A0D3-986D-4907-9797-792A683F4284}.Debug|x86.ActiveCfg = Debug|x86
+		{CCE4A0D3-986D-4907-9797-792A683F4284}.Debug|x86.Build.0 = Debug|x86
+		{CCE4A0D3-986D-4907-9797-792A683F4284}.Release|x86.ActiveCfg = Release|x86
+		{CCE4A0D3-986D-4907-9797-792A683F4284}.Release|x86.Build.0 = Release|x86
+		{04E4508E-A401-4600-A1B1-7BB9B9D66EF0}.Debug|x86.ActiveCfg = Debug|x86
+		{04E4508E-A401-4600-A1B1-7BB9B9D66EF0}.Debug|x86.Build.0 = Debug|x86
+		{04E4508E-A401-4600-A1B1-7BB9B9D66EF0}.Release|x86.ActiveCfg = Release|x86
+		{04E4508E-A401-4600-A1B1-7BB9B9D66EF0}.Release|x86.Build.0 = Release|x86
+		{DE46F8BD-98F3-45E4-A5D9-514D5212132D}.Debug|x86.ActiveCfg = Debug|x86
+		{DE46F8BD-98F3-45E4-A5D9-514D5212132D}.Debug|x86.Build.0 = Debug|x86
+		{DE46F8BD-98F3-45E4-A5D9-514D5212132D}.Release|x86.ActiveCfg = Release|x86
+		{DE46F8BD-98F3-45E4-A5D9-514D5212132D}.Release|x86.Build.0 = Release|x86
+		{36FF480A-543E-416A-B4E0-06F9B82F4B30}.Debug|x86.ActiveCfg = Debug|x86
+		{36FF480A-543E-416A-B4E0-06F9B82F4B30}.Debug|x86.Build.0 = Debug|x86
+		{36FF480A-543E-416A-B4E0-06F9B82F4B30}.Release|x86.ActiveCfg = Release|x86
+		{36FF480A-543E-416A-B4E0-06F9B82F4B30}.Release|x86.Build.0 = Release|x86
+		{B5CD26BC-4F38-4E39-B1CD-F3CBAB1D8B74}.Debug|x86.ActiveCfg = Debug|x86
+		{B5CD26BC-4F38-4E39-B1CD-F3CBAB1D8B74}.Debug|x86.Build.0 = Debug|x86
+		{B5CD26BC-4F38-4E39-B1CD-F3CBAB1D8B74}.Release|x86.ActiveCfg = Release|x86
+		{B5CD26BC-4F38-4E39-B1CD-F3CBAB1D8B74}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\bin\Debug\net6.0\ProductList.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\bin\Debug\net6.0\ProductList.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\bin\Debug\net6.0\ProductList.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\bin\Debug\net6.0\ProductList.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\bin\Debug\net6.0\ProductList.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\refint\ProductList.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ProductList.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductList\obj\Debug\net6.0\ref\ProductList.dll

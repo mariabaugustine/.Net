@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Basee\bin\Debug\Basee.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Basee\bin\Debug\Basee.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Basee\obj\x86\Debug\Basee.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Basee\obj\x86\Debug\Basee.pdb

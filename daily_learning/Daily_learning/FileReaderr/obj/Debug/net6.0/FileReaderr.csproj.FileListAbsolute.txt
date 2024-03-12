@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\bin\Debug\net6.0\FileReaderr.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\bin\Debug\net6.0\FileReaderr.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\bin\Debug\net6.0\FileReaderr.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\bin\Debug\net6.0\FileReaderr.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\bin\Debug\net6.0\FileReaderr.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\refint\FileReaderr.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\FileReaderr.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\FileReaderr\obj\Debug\net6.0\ref\FileReaderr.dll

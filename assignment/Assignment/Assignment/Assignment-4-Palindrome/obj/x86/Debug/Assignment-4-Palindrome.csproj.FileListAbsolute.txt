@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\Assignment-4-Palindrome\bin\Debug\Assignment-4-Palindrome.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\Assignment-4-Palindrome\bin\Debug\Assignment-4-Palindrome.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\Assignment-4-Palindrome\obj\x86\Debug\Assignment-4-Palindrome.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment\Assignment-4-Palindrome\obj\x86\Debug\Assignment-4-Palindrome.pdb

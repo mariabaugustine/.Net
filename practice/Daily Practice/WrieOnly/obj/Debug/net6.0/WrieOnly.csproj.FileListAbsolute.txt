@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\bin\Debug\net6.0\WrieOnly.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\bin\Debug\net6.0\WrieOnly.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\bin\Debug\net6.0\WrieOnly.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\bin\Debug\net6.0\WrieOnly.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\bin\Debug\net6.0\WrieOnly.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\refint\WrieOnly.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\WrieOnly.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\WrieOnly\obj\Debug\net6.0\ref\WrieOnly.dll

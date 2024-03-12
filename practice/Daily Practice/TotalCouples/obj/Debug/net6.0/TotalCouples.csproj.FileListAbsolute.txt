@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\bin\Debug\net6.0\TotalCouples.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\bin\Debug\net6.0\TotalCouples.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\bin\Debug\net6.0\TotalCouples.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\bin\Debug\net6.0\TotalCouples.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\bin\Debug\net6.0\TotalCouples.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\refint\TotalCouples.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\TotalCouples.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\TotalCouples\obj\Debug\net6.0\ref\TotalCouples.dll

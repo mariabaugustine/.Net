@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5-SumOfNatural.exe
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5-SumOfNatural.deps.json
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5-SumOfNatural.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5-SumOfNatural.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5-SumOfNatural.pdb
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\refint\Assignment-5-SumOfNatural.dll
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.pdb
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5-SumOfNatural.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\VS2022Assignments\Assignment-5\obj\Debug\net6.0\ref\Assignment-5-SumOfNatural.dll

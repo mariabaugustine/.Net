@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\setting_value\bin\Debug\setting_value.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\setting_value\bin\Debug\setting_value.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\setting_value\obj\x86\Debug\setting_value.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\setting_value\obj\x86\Debug\setting_value.pdb

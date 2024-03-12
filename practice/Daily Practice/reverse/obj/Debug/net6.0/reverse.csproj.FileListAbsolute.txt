@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\bin\Debug\net6.0\reverse.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\bin\Debug\net6.0\reverse.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\bin\Debug\net6.0\reverse.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\bin\Debug\net6.0\reverse.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\bin\Debug\net6.0\reverse.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\refint\reverse.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\reverse.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\reverse\obj\Debug\net6.0\ref\reverse.dll

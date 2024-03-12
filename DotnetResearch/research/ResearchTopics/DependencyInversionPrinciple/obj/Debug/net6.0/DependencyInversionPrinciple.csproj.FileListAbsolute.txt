@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll

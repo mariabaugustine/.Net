@@ -1,0 +1,6 @@
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\bin\Debug\Assignment-3-CharacterOccurence.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\bin\Debug\Assignment-3-CharacterOccurence.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\obj\x86\Debug\Assignment-3-CharacterOccurence.exe
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\obj\x86\Debug\Assignment-3-CharacterOccurence.pdb
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\obj\x86\Debug\Assignment-3-CharacterOccurence.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\assignment\Assignment\Assignment-3-CharacterOccurence\obj\x86\Debug\Assignment-3-CharacterOccurence.csproj.CoreCompileInputs.cache

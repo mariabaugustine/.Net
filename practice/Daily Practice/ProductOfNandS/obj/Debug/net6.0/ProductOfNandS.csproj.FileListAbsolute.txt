@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\bin\Debug\net6.0\ProductOfNandS.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\bin\Debug\net6.0\ProductOfNandS.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\bin\Debug\net6.0\ProductOfNandS.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\bin\Debug\net6.0\ProductOfNandS.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\bin\Debug\net6.0\ProductOfNandS.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\refint\ProductOfNandS.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ProductOfNandS.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductOfNandS\obj\Debug\net6.0\ref\ProductOfNandS.dll

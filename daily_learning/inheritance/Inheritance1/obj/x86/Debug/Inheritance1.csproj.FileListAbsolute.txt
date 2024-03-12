@@ -1,0 +1,4 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Inheritance1\bin\Debug\Inheritance1.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Inheritance1\obj\x86\Debug\Inheritance1.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\inheritance\Inheritance1\obj\x86\Debug\Inheritance1.pdb

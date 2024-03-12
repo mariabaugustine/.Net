@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\bin\Debug\net6.0\CoupleTriplets.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\bin\Debug\net6.0\CoupleTriplets.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\bin\Debug\net6.0\CoupleTriplets.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\bin\Debug\net6.0\CoupleTriplets.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\bin\Debug\net6.0\CoupleTriplets.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\refint\CoupleTriplets.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\CoupleTriplets.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\CoupleTriplets\obj\Debug\net6.0\ref\CoupleTriplets.dll

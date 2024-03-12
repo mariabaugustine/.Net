@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\bin\Debug\net6.0\LinqExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\bin\Debug\net6.0\LinqExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\refint\LinqExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll

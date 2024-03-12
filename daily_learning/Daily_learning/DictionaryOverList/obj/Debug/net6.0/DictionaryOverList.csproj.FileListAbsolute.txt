@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\bin\Debug\net6.0\DictionaryOverList.exe
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\bin\Debug\net6.0\DictionaryOverList.deps.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\bin\Debug\net6.0\DictionaryOverList.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\bin\Debug\net6.0\DictionaryOverList.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\bin\Debug\net6.0\DictionaryOverList.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\refint\DictionaryOverList.dll
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.pdb
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\DictionaryOverList.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\daily_learning\Daily_learning\DictionaryOverList\obj\Debug\net6.0\ref\DictionaryOverList.dll

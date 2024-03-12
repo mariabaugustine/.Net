@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\bin\Debug\net6.0\LiskovExample.exe
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\bin\Debug\net6.0\LiskovExample.deps.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\bin\Debug\net6.0\LiskovExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\bin\Debug\net6.0\LiskovExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\bin\Debug\net6.0\LiskovExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\refint\LiskovExample.dll
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.pdb
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\LiskovExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\DotnetResearch\research\ResearchTopics\LiskovExample\obj\Debug\net6.0\ref\LiskovExample.dll

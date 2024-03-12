@@ -1,0 +1,15 @@
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\bin\Debug\net6.0\ProductExample.exe
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\bin\Debug\net6.0\ProductExample.deps.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\bin\Debug\net6.0\ProductExample.runtimeconfig.json
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\bin\Debug\net6.0\ProductExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\bin\Debug\net6.0\ProductExample.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.csproj.AssemblyReference.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.AssemblyInfoInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.AssemblyInfo.cs
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.csproj.CoreCompileInputs.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\refint\ProductExample.dll
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.pdb
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ProductExample.genruntimeconfig.cache
+C:\Users\249211\Desktop\dotnet\practice\Daily Practice\ProductExample\obj\Debug\net6.0\ref\ProductExample.dll
